@@ -1,0 +1,172 @@
+.tracker-container table {
+	margin: auto;
+	border-spacing: 40px 0px;
+}
+
+.tracker-container td {
+	border: 2px solid;
+	width: 150px;
+	text-align: center;
+}
+
+.tracker-container h1 {
+	font-size: 22px;
+	margin-top: 2px;
+	margin-bottom: 1px;
+}
+
+.tracker-container p {
+	font-size: 18px;
+	margin-top: 1px;
+	margin-bottom: 2px;
+}
+
+.meal-selector-container table {
+	margin: auto;
+	border-spacing: 20px;
+}
+
+.meal-selector-container button {
+	width: 80px;
+	height: 80px;
+	font-size: 14px;
+}
+
+.change-goals-heading {
+	text-align: center;
+}
+
+.change-goals-container h2 {
+	text-align: center;
+	font-size: 24px;
+}
+
+.change-goals-container table {
+	margin: auto;
+}
+
+.change-goals-container td {
+	width: 150px;
+	text-align: center;
+}
+
+.change-goals-container h3 {
+	margin-top: 2px;
+	margin-bottom: 1px;
+	font-size: 22px;
+}
+
+.change-goals-container p {
+	margin-top: 1px;
+	margin-bottom: 2px;
+	font-size: 18px;
+}
+
+.change-goals-container input {
+	width: 60px;
+	text-align: center;
+}
+
+.update-goals input {
+	font-size: 14px;
+	width: 100px;
+	height: 30px;
+	display: block;
+	margin: auto;
+}
+
+.logo input {
+	width: 60px;
+	height: 60px;
+	position: fixed;
+	top: 10px;
+	left: 10px;
+}
+
+.change-goals-button-container input {
+	width: 60px;
+	height: 60px;
+	position: fixed;
+	top: 10px;
+	right: 10px;
+}
+
+.add-to-consumption-heading {
+	text-align: center;
+}
+
+.unit-info-container h2 {
+	text-align: center;
+	font-size: 26px;
+	margin-bottom: 0px;
+}
+
+.unit-info-container h3 {
+	text-align: center;
+	font-size: 20px;
+	margin-top: 10px;
+}
+
+.nutritional-info-container h2 {
+	text-align: center;
+	font-size: 26px;
+	margin-bottom: 0px;
+}
+
+.nutritional-info-container table {
+	margin: auto;
+	border-spacing: 80px 0px;
+}
+
+.nutritional-info-container td {
+	text-align: center;
+}
+
+.nutritional-info-container h3 {
+	font-size: 22px;
+	margin-bottom: 0px;
+}
+
+.nutritional-info-display-block {
+	padding-top: 5px;
+	padding-botton: 5px;
+}
+
+.nutritional-info-display-block p {
+	margin-top: 0.5px;
+	margin-bottom: 0.5px;
+	font-size: 18px;
+}
+
+.view-consumption-button-container input {
+	width: 60px;
+	height: 60px;
+	position: fixed;
+	top: 90px;
+	right: 10px;
+}
+
+.search-container {
+	text-align: center;
+}
+
+.search-container h1 {
+	font-size: 34px;
+	margin-bottom: 5px;
+}
+
+#search-bar {
+	width: 600px;
+	height: 28px;
+	font-size: 18px;
+	padding-left: 5px;
+	padding-right: 5px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+
+#submit-search {
+	width: 80px;
+	height: 26px;
+	font-size: 16px;
+}
